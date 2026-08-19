@@ -156,3 +156,8 @@ wheel==0.47.0
 wrapt==2.3.0
 xgboost==3.4.0
 cv2
+opencv-python-headless
+streamlit
+torch
+torchvision
+ultralytics
