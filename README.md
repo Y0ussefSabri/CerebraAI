@@ -78,7 +78,6 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`), upload a C
 ├── classifier_best.pt       # ResNet18 subtype classifier weights
 └── requirements.txt         # Full environment export
 ```
+## 🎥 Demo
 
-## Disclaimer
-
-CerebraAI is a research/educational prototype. It is **not** a medical device, has not been validated for clinical use, and should never be used to inform real diagnostic or treatment decisions.
+![Demo](demoo.gif)
