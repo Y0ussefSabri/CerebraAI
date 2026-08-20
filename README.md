@@ -84,5 +84,5 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`), upload a C
 
 
 ## 👥 Team Members :
-@Y0ussefSabri
+@YoussefSabri1
 @MaGdy-16
