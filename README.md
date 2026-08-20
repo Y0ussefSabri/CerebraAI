@@ -81,8 +81,3 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`), upload a C
 ## 🎥 Demo
 
 ![Demo](demoo.gif)
-
-
-## 👥 Team Members :
-@YoussefSabri1
-@MaGdy-16
